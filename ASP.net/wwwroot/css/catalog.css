@@ -1,0 +1,44 @@
+
+h1{
+    color: darkblue;
+}
+
+.carItem{
+    border: 1px solid blue;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-shadow: -7px 6px 25px -12px rgba(0, 0, 0, .75);
+
+}
+
+.itemImg{
+    border-radius: 5px;
+    height: 19rem;
+}
+
+.itemBtn{
+    float: right;
+    box-shadow:inset -3px -2px 0px -2px #899599;
+    background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+    background-color:#ededed;
+    border-radius:15px;
+    border:1px solid #d6bcd6;
+    display:inline-block;
+    cursor:pointer;
+    color:#f50000;
+    font-family:Times New Roman;
+    font-size:19px;
+    padding:10px 11px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #e1e2ed;
+    }
+    .itemBtn:hover {
+        background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+        background-color:#bab1ba;
+    }
+    
+.itemPrice{
+    float: left;
+    color: red;
+}

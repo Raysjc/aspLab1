@@ -1,0 +1,18 @@
+h1{
+    color: rgb(12, 141, 0);
+    font-family: cursive;
+    margin-top: 50%;
+}
+
+h5{
+    text-align: center;
+    color: rgb(199, 199, 0);
+}
+
+.error {
+    border: 1px solid red;
+}
+
+.hide{
+    display: none;
+}
